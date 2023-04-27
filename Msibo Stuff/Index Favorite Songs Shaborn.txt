@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:5px solid black;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>Artist</th>
+    <th>Views</th>
+    <th>Date</th>
+  </tr>
+  <tr>
+    <td>Give Me Everything</td>
+    <td>Pitbull</td>
+    <td>1B</td>
+    <td>05/6/2011</td>
+  </tr>
+  <tr>
+    <td>Dynamite</td>
+    <td>Taio Cruz</td>
+    <td>200M</td>
+    <td>07/22/2010</td>
+  </tr>
+<tr>
+    <td>See You Again</td>
+    <td>Wiz Khalifa</td>
+    <td>5B</td>
+    <td>04/06/2015</td>
+  </tr>
+<tr>
+    <td>Dancin</td>
+    <td>Aaron Smith</td>
+    <td>114M</td>
+    <td>11/03/2014</td>
+  </tr>
+<tr>
+    <td>Stronger</td>
+    <td>Kanye West</td>
+    <td>439M</td>
+    <td>06/16/2009</td>
+  </tr>
+<tr>
+    <td>Starboy</td>
+    <td>The Weeknd</td>
+    <td>2B</td>
+    <td>09/28/2016</td>
+  </tr>
+
+</table>
+</body>
+</html>

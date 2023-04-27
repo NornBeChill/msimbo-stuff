@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+<style>
+ul.no-bullets li {
+  display: inline-block;
+}
+ul.no-bullets {
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0;}
+ #rcorners{
+  border: 1px solid grey;
+  border-radius: 12px;
+  padding: 20px;
+  width: 200px;
+  height: 150px;
+  margin: auto;
+  background-color: #F6F8FA;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{text-align: center;
+}
+#corners{
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 10px;
+  width: 200px;
+  height: 50px;
+  margin: auto;
+    background-color: #F6F8FA;
+  ;
+  
+}
+  
+</style>
+</head>
+
+<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"width="100" height="100"></a>
+<h1 style="text-align:center;">Sign in to GitHub</h1>
+
+
+<form action="/action_page.php">
+  <div class="center">
+  <div id="rcorners">
+  <label for="login_field">Username or email address</label><br>
+  <input type="text" id="login_field" name="login" value=""><br><br>
+  <font size="2px"><a href="password_reset">Forgot password?</a></font><br><br>
+  <label for="password">Password</label><br>
+  <input type="text" id="password" name="password" value=""><br>
+  <input type="submit" name="commit" value="Sign in">
+  <br><br>
+  </div>
+</form>
+<div id="corners">
+<p>New to GitHub?<button onclick="https://github.com/signup?source=login">Create an account.</button></P>
+ </div><br><br>
+ <ul class="no-bullets">
+  <li><p><a href="https://docs.github.com/en/site-policy/github-terms/github-terms-of-service">Terms</a></p></li>
+  <li><p><a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement">Privacy</a></p></li>
+  <li><p><a href="https://github.com/security">Security</a></p></li>
+  <li><p><a href=="https://support.github.com/?tags=dotcom-direct">Contact GitHub</a></p></li>
+</ul>  
+  
+  
+  
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Shaborn Favorites thing to do</h1>
+<h2>Gaming</h2>
+<p>One of my favorite things to do is just playing games.</p>
+<p>From RPGs like Skyrim and Mass Effect to simple puzzle games like Tetris.</p>
+<img src="https://www.pockettactics.com/wp-content/sites/pockettactics/2022/10/skyrim-logo-550x309.jpg" alt="Skyrim">
+<p>I also like games that are diffcult like dark souls or even those old impoosible retro games like Contra,Castlevania and Ninja Gaiden.</p>
+<img src="https://i.ytimg.com/vi/k7vcUei5u2E/maxresdefault.jpg" alt="Contra"style="width:800px;height:600px;">
+<a href="https://en.wikipedia.org/wiki/Video_game"><button>Press for more</button></a>
+
+<h2>Drawing</h2>
+<p>Another of my favorite things to do is drawing as i have just been doing it as a hobby for the last year or so.</p>
+<a href="https://drive.google.com/drive/folders/1AzQ_e44IfiHof-Lo_VuNix8YJHa4MLG8?usp=sharing">
+<button>Press to see Catalog</button></a>
+</body>
+</html>
